@@ -1,0 +1,5 @@
+.jumbotron {
+  background: url(/pattern-project/imgs/header.jpeg);
+  background-size: cover;
+  background-position: center; 
+}
