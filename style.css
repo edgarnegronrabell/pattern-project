@@ -1,5 +1,3 @@
 .jumbotron {
-  background: url(/pattern-project/imgs/header.jpeg);
-  background-size: cover;
-  background-position: center; 
+  background: url(/pattern-project/imgs/header.jpeg) center center / cover no-repeat;
 }
